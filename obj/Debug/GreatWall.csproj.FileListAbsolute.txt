@@ -1,0 +1,590 @@
+C:\Users\yowkim\Downloads\GreatWallSample-src\obj\Debug\GreatWall.csprojAssemblyReference.cache
+C:\Users\yowkim\Downloads\GreatWallSample-src\obj\Debug\GreatWall.csproj.CoreCompileInputs.cache
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\csc.exe
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\csc.exe.config
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\csc.rsp
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\csi.exe
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\csi.rsp
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.AppContext.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\vbc.exe
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\vbc.exe.config
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\vbc.rsp
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\VBCSCompiler.exe
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\GreatWall.dll.config
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\GreatWall.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\GreatWall.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Autofac.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Chronic.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\EntityFramework.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\EntityFramework.SqlServer.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Connector.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.Edm.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.OData.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.Services.Client.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Newtonsoft.Json.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Net.Http.Formatting.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Spatial.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Web.Http.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Web.Http.WebHost.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Autofac.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\EntityFramework.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\EntityFramework.SqlServer.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Bot.Connector.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.Edm.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.OData.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.Data.Services.Client.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\Newtonsoft.Json.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Net.Http.Formatting.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Spatial.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Web.Http.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\System.Web.Http.WebHost.xml
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\de\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\es\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\fr\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\it\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ja\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ko\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\ru\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\obj\Debug\GreatWall.csproj.CopyComplete
+C:\Users\yowkim\Downloads\GreatWallSample-src\obj\Debug\GreatWall.dll
+C:\Users\yowkim\Downloads\GreatWallSample-src\obj\Debug\GreatWall.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\DocumentDB.Spatial.Sql.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\csc.exe
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\csc.exe.config
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\csc.rsp
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\csi.exe
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\csi.rsp
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.AppContext.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.Collections.Immutable.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.IO.FileSystem.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\System.Reflection.Metadata.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\vbc.exe
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\vbc.exe.config
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\vbc.rsp
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\VBCSCompiler.exe
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\roslyn\VBCSCompiler.exe.config
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\GreatWall.dll.config
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\GreatWall.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\GreatWall.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Autofac.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Chronic.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\EntityFramework.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\EntityFramework.SqlServer.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Azure.Documents.Client.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Azure.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.History.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Connector.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.Edm.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.OData.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.Services.Client.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Logging.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocols.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Tokens.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Rest.ClientRuntime.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.WindowsAzure.Storage.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Newtonsoft.Json.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Net.Http.Formatting.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Spatial.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Web.Http.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Web.Http.WebHost.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Autofac.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\EntityFramework.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\EntityFramework.SqlServer.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Azure.Documents.Client.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Azure.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.Azure.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.History.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Builder.History.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Bot.Connector.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.Edm.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.OData.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.Data.Services.Client.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Logging.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocols.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.IdentityModel.Tokens.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Microsoft.WindowsAzure.Storage.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\Newtonsoft.Json.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Net.Http.Formatting.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Spatial.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Web.Http.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\System.Web.Http.WebHost.xml
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\de\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\es\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\it\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\de\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\es\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fr\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\it\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ja\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ko\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ru\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\de\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\es\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\fr\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\it\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ja\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ko\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\ru\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hans\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\bin\zh-Hant\System.Spatial.resources.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\obj\Debug\GreatWall.csprojAssemblyReference.cache
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\obj\Debug\GreatWall.csproj.CoreCompileInputs.cache
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\obj\Debug\GreatWall.csproj.CopyComplete
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\obj\Debug\GreatWall.dll
+D:\[LECTURE]\ChatBot_프로그래밍\Source\GreatWall\obj\Debug\GreatWall.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\DocumentDB.Spatial.Sql.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\csc.exe
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\csc.exe.config
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\csc.rsp
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\csi.exe
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\csi.rsp
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.AppContext.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.Collections.Immutable.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.IO.FileSystem.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\System.Reflection.Metadata.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\vbc.exe
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\vbc.exe.config
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\vbc.rsp
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\VBCSCompiler.exe
+C:\ChatBot_Project\GreatWall_CardHelper\bin\roslyn\VBCSCompiler.exe.config
+C:\ChatBot_Project\GreatWall_CardHelper\bin\GreatWall.dll.config
+C:\ChatBot_Project\GreatWall_CardHelper\bin\GreatWall.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\GreatWall.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Autofac.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Chronic.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\EntityFramework.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\EntityFramework.SqlServer.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Azure.Documents.Client.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Connector.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.Edm.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.OData.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.Services.Client.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Logging.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Rest.ClientRuntime.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Newtonsoft.Json.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Net.Http.Formatting.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Spatial.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Web.Http.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Web.Http.WebHost.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Autofac.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\EntityFramework.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\EntityFramework.SqlServer.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Azure.Documents.Client.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Bot.Connector.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.Edm.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.OData.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.Data.Services.Client.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Logging.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\Newtonsoft.Json.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Net.Http.Formatting.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Spatial.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Web.Http.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\System.Web.Http.WebHost.xml
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\de\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\es\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\it\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\de\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\es\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fr\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\it\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ja\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ko\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ru\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\de\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\es\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\fr\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\it\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ja\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ko\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\ru\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hans\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\bin\zh-Hant\System.Spatial.resources.dll
+C:\ChatBot_Project\GreatWall_CardHelper\obj\Debug\GreatWall.csprojAssemblyReference.cache
+C:\ChatBot_Project\GreatWall_CardHelper\obj\Debug\GreatWall.csproj.CoreCompileInputs.cache
+C:\ChatBot_Project\GreatWall_CardHelper\obj\Debug\GreatWall.csproj.CopyComplete
+C:\ChatBot_Project\GreatWall_CardHelper\obj\Debug\GreatWall.dll
+C:\ChatBot_Project\GreatWall_CardHelper\obj\Debug\GreatWall.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\csc.exe
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\csc.exe.config
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\csc.rsp
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\csi.exe
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\csi.rsp
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.AppContext.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\vbc.exe
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\vbc.exe.config
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\vbc.rsp
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\GreatWall.dll.config
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\GreatWall.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\GreatWall.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Autofac.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Chronic.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\EntityFramework.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Connector.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.Edm.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.OData.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.Services.Client.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Net.Http.Formatting.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Spatial.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Web.Http.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Web.Http.WebHost.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Autofac.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\EntityFramework.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Bot.Connector.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.Edm.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.OData.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.Data.Services.Client.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Net.Http.Formatting.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Spatial.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Web.Http.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Web.Http.WebHost.xml
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\de\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\es\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\fr\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\it\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ja\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ko\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\ru\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\obj\Debug\GreatWall.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\obj\Debug\GreatWall.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\obj\Debug\GreatWall.csproj.CopyComplete
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\obj\Debug\GreatWall.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\obj\Debug\GreatWall.pdb
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\MySql.Data.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Memory.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\System.Buffers.dll
+C:\Users\User\OneDrive\바탕 화면\Chpter5-3_GreatWall_CardHelper\bin\MySql.Data.xml
